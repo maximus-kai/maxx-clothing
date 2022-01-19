@@ -9,6 +9,9 @@ function App() {
         <p>
          Amazing Stuff!!! <br/>
          Straight out of a movie 
+         <br/>
+         Great indeed
+         today is a new day to learn
         </p>
         <a
           className="App-link"
